@@ -61,9 +61,3 @@ This application was built and deployed using **Google Apps Script**.
 | `Page.html`    | HTML interface for collecting user inputs.                                      |
 | `Result.html`  | HTML template for displaying the result message.                                |
 
----
-
-## **Future Improvements**  
-- Support multiple languages for international use.  
-- Add email notifications for accepted applicants.  
-- Enhance security by restricting access to authorized users.  
