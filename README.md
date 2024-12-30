@@ -63,11 +63,6 @@ This application was built and deployed using **Google Apps Script**.
 
 ---
 
-## **Contact Information**  
-If you encounter errors or cannot find your information, please contact **010-8362-8759** for assistance.
-
----
-
 ## **Future Improvements**  
 - Support multiple languages for international use.  
 - Add email notifications for accepted applicants.  
